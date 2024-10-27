@@ -1,0 +1,6 @@
+@Onyx.Products.API_HostAddress = http://localhost:5073
+
+GET {{Onyx.Products.API_HostAddress}}/products/
+Accept: application/json
+
+###

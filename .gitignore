@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Onyx.Products.API/bin/Debug/net8.0
+/Onyx.Products.API.Tests/bin/Debug/net8.0
+/Onyx.Products.API.Tests/obj
+/Onyx.Products.API/obj/Debug/net8.0
